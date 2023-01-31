@@ -1,5 +1,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+@font-face {
+  font-family: "rogue";
+  src: local("rogue"),
+   url("./fonts/RougeScript-Regular.ttf") format("truetype");
+  }
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   
@@ -15,9 +20,6 @@ body {
 }
 .navbar {
   padding: 15px 0;
-}
-.navbar-brand {
-  
 }
 .navbar a {
   text-decoration: none;
@@ -53,4 +55,7 @@ ul.navbar-nav li.nav-item a.nav-link {
 }
 ul.navbar-nav li.nav-item a.nav-link:hover {
   color: #EDF828;
+}
+section{
+  height: 100vh;
 }
