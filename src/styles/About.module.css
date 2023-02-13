@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
 .center{
+    margin-top: 5%;
     text-align: center;
-    margin-bottom: 1%;
+    margin-bottom: 5%;
 }
 .introFont{
     font-size: 18px;

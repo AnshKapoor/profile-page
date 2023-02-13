@@ -81,3 +81,6 @@ div.shadow::hover {
   -moz-box-shadow: 26px 22px 38px 0px rgba(112,108,112,0.46);
   box-shadow: 26px 22px 38px 0px rgba(112,108,112,0.46);
 }
+.next-button{
+  position: relative;
+}
