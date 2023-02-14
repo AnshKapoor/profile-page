@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Edtech",
+        "description": "This project serves as a portal where students and counsellors can interact with each other through a common medium. Applying for masters is a very complicated procedure and needs a lot of assistance to complete the process. This is the place for those students.I lead the backend team for the REST API's to support this Frontend application along with frontend development on React.",
+        "url": "https://edtech.innovationm.com/",
+        "images": [
+            "https://images.unsplash.com/photo-1484807352052-23338990c6c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b25saW5lfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG9ubGluZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+            "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fG9ubGluZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+        ]
+    },
+    {
+        "name": "Pharmeasy Web Next",
+        "description": "I worked for Pharmeasy for approximately 7 months. During my time I worked on 2 different projects, both of which were related to the frontend application of PharmEasy. I worked on their frontend web application which was used to purchase medicine and over-the-counter products.",
+        "url": "https://pharmeasy.in/",
+        "images": [
+            "https://website-assets-fd.freshworks.com/attachments/ckf592qfm017mpcg13e42m7sn-pharmeasy-logo.one-half.jpg",
+            "https://website-assets-fd.freshworks.com/attachments/ckf5d3any01f5bxfzm21uv9a5-bg.full.jpg",
+            "https://etimg.etb2bimg.com/photo/90594688.cms"
+        ]
+    }
+]
