@@ -17,8 +17,8 @@ body {
 #header {
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
-  background: linear-gradient(90deg, rgba(73,155,156,1) 0%, rgba(9,121,95,0.9360119047619048) 35%, rgba(61,146,149,1) 54%, rgba(33,164,161,1) 100%);
-  
+  background: linear-gradient(90deg, rgba(73, 155, 156, 1) 0%, rgba(9, 121, 95, 0.9360119047619048) 35%, rgba(61, 146, 149, 1) 54%, rgba(33, 164, 161, 1) 100%);
+
 }
 
 .navbar {
@@ -76,11 +76,17 @@ ul.navbar-nav li.nav-item a.nav-link:hover {
   text-align: center;
   margin-bottom: 1%;
 }
+
 div.shadow::hover {
-  -webkit-box-shadow: 26px 22px 38px 0px rgba(112,108,112,0.46);
-  -moz-box-shadow: 26px 22px 38px 0px rgba(112,108,112,0.46);
-  box-shadow: 26px 22px 38px 0px rgba(112,108,112,0.46);
+  -webkit-box-shadow: 26px 22px 38px 0px rgba(112, 108, 112, 0.46);
+  -moz-box-shadow: 26px 22px 38px 0px rgba(112, 108, 112, 0.46);
+  box-shadow: 26px 22px 38px 0px rgba(112, 108, 112, 0.46);
 }
-.next-button{
+
+.next-button {
   position: relative;
+}
+
+.left {
+  text-align: left;
 }
