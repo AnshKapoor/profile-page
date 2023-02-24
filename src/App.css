@@ -90,3 +90,7 @@ div.shadow::hover {
 .left {
   text-align: left;
 }
+section{
+  z-index:3;
+  position:relative;
+}

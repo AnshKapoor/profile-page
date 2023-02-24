@@ -7,10 +7,12 @@ import Projects from './components/Projects'
 import WorkEx from './components/WorkEx';
 import Hobbies from './components/Hobbies';
 import Contact from './components/Contact'
+import ParticlesApp from './components/Particles';
 import './fonts/RougeScript-Regular.ttf'
 function App() {
   return (
     <div className="App">
+      <ParticlesApp />
       <Navbar />
       <Home />
       <About />
