@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+  background-color: aquamarine;
   font-weight: 400;
   line-height: 30px;
   color: #585858;
@@ -93,19 +93,21 @@ div.shadow::hover {
 section{
   z-index:3;
   position:relative;
-}
-#about-me.container{
-   margin-top:5%;
+  margin-top:5%;
       background-color: white;
     border: 1px solid grey;
-    border-radius: 5%;
     box-shadow: 2px -4px 4px 1px;
+}
+section#home{
+   background-color: transparent;
+   margin-top:0;
+   border:none;
+   box-shadow:none;
 
 }
 @media screen and (max-width: 480px) {
     #about-me.container{
    margin-top:5%;
-      background-color: white;
     border: 1px solid grey;
     border-radius: 0%;
     box-shadow: 2px -4px 4px 1px;
