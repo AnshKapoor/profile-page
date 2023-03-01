@@ -94,3 +94,21 @@ section{
   z-index:3;
   position:relative;
 }
+#about-me.container{
+   margin-top:5%;
+      background-color: white;
+    border: 1px solid grey;
+    border-radius: 5%;
+    box-shadow: 2px -4px 4px 1px;
+
+}
+@media screen and (max-width: 480px) {
+    #about-me.container{
+   margin-top:5%;
+      background-color: white;
+    border: 1px solid grey;
+    border-radius: 0%;
+    box-shadow: 2px -4px 4px 1px;
+
+}
+    }

@@ -16,7 +16,7 @@ const About = () => {
           <p>Thank you for visiting my page.</p>
         </div>
         <div className='col-md-6 col-lg-6 col-sm-12 col-xs-12'>
-          <img src={require('../ansh.png')} height="70%" width="70%" />
+          <img id="profileImage"src={require('../ansh.png')}/>
         </div>
       </div>
     </section>
