@@ -1,9 +1,7 @@
 import React from 'react'
 import styles from '../styles/Home.module.css'
-import hello from '../hello.gif';
 import designer from '../designer.png'
 import coding from '../coding.png';
-import ParticlesApp from './Particles';
 const Home = () => {
     const imgheight = "80px";
     return (

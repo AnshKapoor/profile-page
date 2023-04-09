@@ -12,7 +12,6 @@ import './fonts/RougeScript-Regular.ttf'
 function App() {
   return (
     <div className="App">
-      <ParticlesApp />
       <Navbar />
       <Home />
       <About />
