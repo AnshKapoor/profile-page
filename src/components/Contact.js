@@ -22,14 +22,14 @@ const Contact = () => {
                     <div className="single-contact text-center wow fadeInDown" data-wow-delay="0.2s">
                         <i className="fa fa-home"></i>
                         <h2>Location</h2>
-                        <p>Greater Noida West,UP,India</p> 
+                        <p>Hans Sommer Straße 25,Braunschweig,Germany</p> 
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="single-contact text-center wow fadeInDown" data-wow-delay="0.4s">
                         <i class="fa fa-phone"></i>
                         <h2>Phone: </h2>
-                        <p>(+91) 870-045-3095</p> 
+                        <p>(+49) 162-659-3950</p> 
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
@@ -84,6 +84,7 @@ const Contact = () => {
                                 </div>
                                 <div class="col-md-12 mt-4">
                                     <button class="btn btn-send" value="">Send message</button>
+                                    <div>Note: Send message functionality is still under development</div>
                                 </div>
                             </div>
                         </div>
