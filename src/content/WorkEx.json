@@ -1,6 +1,16 @@
 [
     {
         "company":{
+            "name":"Appinventiv Technologies",
+            "url":"https://appinventiv.com/",
+            "linkedin":"https://www.linkedin.com/company/appinventiv/",
+            "logo":"https://appinventiv.com/wp-content/themes/twentynineteen-child/images/appi-blue-wht-logo.svg"
+        },
+        "description":"Project 1: Gosadi Mobile App:- For my first project at Appinventiv, I had the opportunity to work on the development of the Gosadi mobile application. This project involved building a robust and efficient backend system to support the client's vision. My role primarily focused on creating the backend infrastructure using modern technologies. I leveraged the power of NestJS, a progressive Node.js framework, to build a scalable and maintainable backend for the Gosadi app."
+        
+    },
+    {
+        "company":{
             "name":"InnovationM Technology Solutions",
             "url":"https://www.innovationm.com/",
             "linkedin":"https://www.linkedin.com/company/innovationm/?originalSubdomain=in",
